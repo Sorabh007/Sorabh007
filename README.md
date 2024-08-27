@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Sorabh Guliya
-- 👀 I’m interested in making UI based projects
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on some public UI based Projects
 - 📫 How to reach me officialsorabhguliya@gmail.com
 
 <!---
